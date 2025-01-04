@@ -55,9 +55,6 @@ Here are some of the tools and technologies I work with:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="500px"/>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ChiaPatricia&icon=9&color=6)](https://visitcount.itsvg.in)
