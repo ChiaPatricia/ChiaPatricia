@@ -3,7 +3,9 @@ I'm **Jia Xu** (a.k.a. ChiaPatricia), a **Ph.D. Researcher** in **AI for Healthc
 
 ---
 
-### 💻 Tech Stack
+<details>
+<summary><strong>💻 Tech Stack</strong></summary>
+
 Here are some of the tools and technologies I work with:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
