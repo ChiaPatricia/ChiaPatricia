@@ -46,8 +46,6 @@ Here are some of the tools and technologies I work with:
 ### 📊 GitHub Stats
 ![ChiaPatricia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiaPatricia&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChiaPatricia&theme=merko&hide_border=false)
-<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaPatricia&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
